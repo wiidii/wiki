@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://git.coding.net/liww/Blog.git
+  branch: master
